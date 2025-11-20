@@ -81,6 +81,11 @@ h2 {
     width: 860px;
     margin: 40px auto 0;
 }
+.imgs img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
 .imgs img:nth-of-type(n+2) {
     margin-left: 20px;
 }
